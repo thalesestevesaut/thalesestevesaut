@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Thales Esteves  
 
-<!--
-**thalesestevesaut/thalesestevesaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Eletricista Profissional** com experiência em instalações e manutenção elétrica  
+💻 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
+🤖 Foco em **Automação, IoT e integração entre elétrica e tecnologia**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que faço
+- Instalações e manutenção elétrica residenciais e prediais  
+- Projetos elétricos conforme normas (NBR 5410)  
+- Manutenção preventiva e corretiva  
+- Estudos em programação (Java, Python, C#) aplicados à automação  
+
+---
+
+## 📂 Projetos
+- 📘 **Estudos em ADS** → exercícios e práticas de programação  
+- 📊 **Simulação de automação residencial** → integração de elétrica com sistemas inteligentes  
+
+---
+
+## 🌎 Onde me encontrar
+[LinkedIn] https://www.linkedin.com/in/thales-esteves-654877319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[instagram]
+https://www.instagram.com/esteveseletrica.aut?igsh=NXhweWgwbTByYm9u
